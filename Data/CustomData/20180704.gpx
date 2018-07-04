@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?><gpx version="1.0" creator="GPSLogger 95 - http://gpslogger.mendhak.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"><time>2018-07-04T18:05:24.782Z</time><trk><trkseg><trkpt lat="47.6248225" lon="-122.2962779"><ele>22.0</ele><time>2018-07-04T18:05:24.782Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248461" lon="-122.296329"><ele>22.0</ele><time>2018-07-04T18:06:46.276Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248328" lon="-122.2963466"><ele>22.0</ele><time>2018-07-04T18:11:17.421Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248002" lon="-122.2964869"><time>2018-07-04T18:16:17.170Z</time><src>network</src></trkpt>
+<trkpt lat="47.6247987" lon="-122.2964159"><time>2018-07-04T18:21:17.233Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248245" lon="-122.296296"><ele>22.0</ele><time>2018-07-04T18:26:01.032Z</time><src>network</src></trkpt>
+<trkpt lat="47.6247768" lon="-122.2964981"><time>2018-07-04T18:27:22.581Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248217" lon="-122.2962852"><ele>22.0</ele><time>2018-07-04T18:31:17.287Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248206" lon="-122.2962919"><ele>22.0</ele><time>2018-07-04T18:36:18.328Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248206" lon="-122.2962939"><ele>22.0</ele><time>2018-07-04T18:41:10.773Z</time><src>network</src></trkpt>
+<trkpt lat="47.6250546" lon="-122.2952249"><time>2018-07-04T18:46:02.159Z</time><src>network</src></trkpt>
+<trkpt lat="47.6249563" lon="-122.2948573"><time>2018-07-04T18:51:15.800Z</time><src>network</src></trkpt>
+<trkpt lat="47.6251705683794" lon="-122.29449554476447"><ele>44.7352312844464</ele><time>2018-07-04T18:57:05.999Z</time><speed>0.0</speed><geoidheight>-18.4</geoidheight><src>gps</src><hdop>3.2</hdop><vdop>99.0</vdop><pdop>140.0</pdop></trkpt>
+<trkpt lat="47.6251435" lon="-122.295523"><time>2018-07-04T19:01:14.846Z</time><src>network</src></trkpt>
+<trkpt lat="47.625296751896364" lon="-122.29428794910699"><ele>33.41392888817127</ele><time>2018-07-04T19:06:19.612Z</time><course>51.880035</course><speed>1.04796</speed><geoidheight>-18.4</geoidheight><src>gps</src><hdop>0.8</hdop><vdop>99.0</vdop><pdop>140.0</pdop></trkpt>
+<trkpt lat="47.62514621517911" lon="-122.29660852334888"><ele>33.501809500517155</ele><time>2018-07-04T19:11:18.353Z</time><course>309.29663</course><speed>0.61411697</speed><geoidheight>-18.4</geoidheight><src>gps</src><hdop>2.4</hdop><vdop>99.0</vdop><pdop>140.0</pdop></trkpt>
+<trkpt lat="47.62481560956395" lon="-122.29630121832656"><ele>14.00041339906959</ele><time>2018-07-04T19:16:14.000Z</time><speed>0.0</speed><geoidheight>-18.4</geoidheight><src>gps</src><sat>9</sat><hdop>1.6</hdop><vdop>2.0</vdop><pdop>2.6</pdop></trkpt>
+<trkpt lat="47.6248026" lon="-122.2963552"><ele>22.0</ele><time>2018-07-04T19:21:17.147Z</time><src>network</src></trkpt>
+<trkpt lat="47.6248199" lon="-122.2962809"><ele>22.0</ele><time>2018-07-04T19:26:17.266Z</time><src>network</src></trkpt>
+</trkseg></trk></gpx>
